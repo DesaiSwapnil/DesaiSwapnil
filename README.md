@@ -4,15 +4,14 @@
 
 ---------------------
 ### About Me
-I hold a Master in Computer Science and am passionate about building impactful technology solutions. For me, technology is simply a tool for creating value.
-
+I have a Master's degree in Computer Science and possess a strong enthusiasm for crafting impactful technological solutions. To me, technology serves as a fundamental instrument for generating value.
 - 🌍 I'm based in Pune, India.
 - :sunglasses: Proficient in designing and deploying end-to-end ML Solutions.
 - :zap: An avid reader in the areas of programming and Artificial Intelligence and devoted to continuous learning and personal growth🌱 every day.
-- 🧠 Currently, I'm learning Generative AI and building Large Language Models (LLMs) powered applications in my current project.
-- :earth_africa: I am contributing to the community by sharing my knowledge with the world through teaching.
+- 🧠 At present, I'm working on implementing Generative AI and developing applications powered by Large Language Models (LLMs) in my ongoing project, aiming to minimize the need for human intervention.
+- :earth_africa: I express my passion for teaching by sharing my knowledge with the community, contributing to the collective growth and learning of others.
 - 📫 How to find me: 
-  - 💼 [Portfolio](https://akashmathur-2212.github.io/)
+  - 💼 [Portfolio](https://swapnild.github.io/)
   - ✉️ Email me on [swapnil89.desai@gmail.com](mailto:swapnil89.desai@gmail.com)
   - :bulb: [Medium articles](https://medium.com/@Swapnild89)
   - :office: [LinkedIn](http://www.linkedin.com/pub/swapnil-desai/64/54b/81)
@@ -28,7 +27,7 @@ I hold a Master in Computer Science and am passionate about building impactful t
 
 | 🔘 My **Top** Technologies 🔘 | 🔘 My **Top** Interests 🔘 |
 |---------------|--------------|
-| • Python, SQL, Spark <br/> • Scikit-Learn, PyTorch, LangChain, LlamaIndex <br/> • NumPy, Pandas <br/> • AWS, Azure <br/> • Docker, Terraform, CI/CD, Git, GitLab <br/> • DVC, MLFlow <br/> • Tableau, Power BI <br/>• MySQL, SQLite <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • Cloud <br/> • MLOps <br/> |
+| • Python, SQL, Spark <br/> • Scikit-Learn, PyTorch, LangChain, LlamaIndex <br/> • NumPy, Pandas <br/> • AWS, Azure <br/> • Docker, Terraform, CI/CD, Git, GitLab <br/> • DVC, MLFlow <br/>• MySQL, SQLite <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • Cloud <br/> • MLOps <br/> |
 
 ---------------------
 
