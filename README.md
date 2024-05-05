@@ -27,7 +27,7 @@ I have a Master's degree in Computer Science and possess a strong enthusiasm for
 
 | 🔘 My **Top** Technologies 🔘 | 🔘 My **Top** Interests 🔘 |
 |---------------|--------------|
-| • Python, SQL, Spark <br/> • Scikit-Learn, PyTorch, LangChain, LlamaIndex <br/> • NumPy, Pandas <br/> • AWS, Azure <br/> • Docker, Terraform, CI/CD, Git, GitLab <br/> • DVC, MLFlow <br/>• MySQL, SQLite <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • Cloud <br/> • MLOps <br/> |
+| • Python, SQL, Spark <br/> • Scikit-Learn, PyTorch, LangChain , Milvus <br/> • NumPy, Pandas <br/> • AWS, Azure <br/> • Docker , CI/CD, Git, GitLab <br/> • DVC, MLFlow <br/>• MySQL, Redis <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • Cloud <br/> • MLOps <br/> |
 
 ---------------------
 
