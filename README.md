@@ -1,45 +1,92 @@
-# 🤖 Hi there. I am [Swapnil Desai](https://swapnild.github.io/) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, I'm Swapnil Desai 👋
 
-#### **`Senior Data Scientist • Helping organizations to engineer production-ready AI/ML systems.`**
+**Lead AI Engineer** • Building & Scaling Production AI Agents • Multi-Agent Systems Architect
 
----------------------
-### About Me
-I have a Master's degree in Computer Science and possess a strong enthusiasm for crafting impactful technological solutions. To me, technology serves as a fundamental instrument for generating value.
-- 🌍 I'm based in Pune, India.
-- :sunglasses: Proficient in designing and deploying end-to-end ML Solutions.
-- :zap: An avid reader in the areas of programming and Artificial Intelligence and devoted to continuous learning and personal growth🌱 every day.
-- 🧠 At present, I'm working on implementing Generative AI and developing applications powered by Large Language Models (LLMs) in my ongoing project, aiming to minimize the need for human intervention.
-- :earth_africa: I express my passion for teaching by sharing my knowledge with the community, contributing to the collective growth and learning of others.
-- 📫 How to find me: 
-  - 💼 [Portfolio](https://swapnild.github.io/)
-  - ✉️ Email me on [swapnil89.desai@gmail.com](mailto:swapnil89.desai@gmail.com)
-  - :bulb: [Medium articles](https://medium.com/@Swapnild89)
-  - :office: [LinkedIn](http://www.linkedin.com/pub/swapnil-desai/64/54b/81)
-- 🤝  I'm open to collaborating across Machine Learning, Deep Learning, Generative AI, and MLOps areas!
-  
----------------------
+&gt; Currently shipping AI systems that serve millions of customers across Europe. 12+ years in tech (8+ years Data Science, 3+ years Software Engineering). I also love teaching Data Science and helping developers build production-ready applications.
 
-### My Primary Skills
+---
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a></a>
-</p>
+## 🚀 What I'm Doing Now
 
-| 🔘 My **Top** Technologies 🔘 | 🔘 My **Top** Interests 🔘 |
-|---------------|--------------|
-| • Python, SQL, Spark <br/> • Scikit-Learn, PyTorch, LangChain , Milvus <br/> • NumPy, Pandas <br/> • AWS, Azure <br/> • Docker , CI/CD, Git, GitLab <br/> • DVC, MLFlow <br/>• MySQL, Redis <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • Cloud <br/> • MLOps <br/> |
+**Lead AI Engineer at Deutsche Telekom**
+Building, scaling, and governing AI Agents using Google's **Agent Development Kit (ADK)**, Agent Builder, and Agent Engine.
 
----------------------
+### 🏆 Featured: OneBot (Multi-Agent Customer Support)
+- **Live in Production**: Serving millions of customers at [telekom.de](https://www.telekom.de)
+- Handling **7,500+ concurrent sessions** and **25,000+ questions daily**—reducing human agent escalations by **40%** while driving **20% year-over-year operational savings**
+- Multi-agent architecture answering complex customer support queries across Telekom's European markets
+- Built with enterprise-grade reliability and governance
 
+---
 
-<!--
-### Check out my latest articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/2" alt="Recent Article 2">
--->
+## 🛠️ What I Build
 
-<!--
-**akashmathur-2212/akashmathur-2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--- https://medium.com/towards-data-science/creating-a-data-science-portfolio-bd485382f49 
-- :nerd_face: An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative & sustainable AI solutions.--->
+I build end-to-end **AI agents and ship** production systems that can be used immediately—which solve real problems and add value to the org/customer.
+
+- **AI Agents**: Single-agent → Multi-agent → MCP-based → Browser agents → Voice agents → Local agents
+- **Agent Architectures**: Crews, swarms, hierarchical planning, tool orchestration, memory management, eval frameworks
+- **RAG Systems**: Simple chains → Agentic RAG → Hybrid search (BM25 + Cross-encoders) → Local RAG with Gemma/Llama
+- **Chat-With-Anything**: GitHub, Gmail, PDFs, videos, research papers (production-grade parsing + retrieval)
+- **Fine-Tuning**: Gemma, Llama, and OSS models using PEFT/LoRA/QLoRA for instruction tuning
+- **Production Systems**: Conversation AI platforms with human-in-the-loop, monitoring, and governance
+
+---
+
+## 💼 Tech Stack
+
+### AI & LLMs
+`GPT-4/GPT-4o` `Llama3` `Gemma` `LangChain` `LangGraph` `ADK` `DSPy` `HuggingFace Transformers` `RAG` `Prompt Engineering`
+
+### Multi-Agent & Tools
+`MCP` `Agent Development Kit` `CrewAI` `AutoGen` `OpenAI SDK` `Function Calling` `Tool Use` `Agent Evaluation`
+
+### Data & Vector DBs
+`PySpark` `SQL` `PostgreSQL` `pgvector` `Qdrant` `Neo4j` `Redis` `Milvus` `NumPy` `Pandas`
+
+### MLOps & Infrastructure
+`Docker` `Kubernetes` `FastAPI` `MLflow` `Airflow` `ArgoCD` `AWS (SageMaker, ECS, ECR, S3)` `Azure OpenAI` `GitLab CI/CD` `DVC` `Argilla`
+
+### Frameworks & Languages
+`Python` `PyTorch` `Keras` `Streamlit` `FastAPI` `Linux` `Git`
+
+### Production Load Testing & Optimization
+`Locust` `K6` `JMeter`
+
+- **Throughput Optimization**: Designed systems handling 7,500+ concurrent sessions with optimized inference pipelines, batching strategies, and async processing to maximize requests/sec
+- **Latency Optimization**: Sub-second responses via model quantization (GGUF/AWQ), efficient vector retrieval (HNSW), and Redis caching layers
+- **Load Testing at Scale**: Distributed Locust clusters simulating 25,000+ daily queries to identify bottlenecks in agent orchestration and tool latency
+- **Production Profiling**: GPU utilization tuning, memory leak detection, and auto-scaling strategies for peak traffic
+
+---
+
+## 🎓 Education & Experience
+
+- **M.Sc. in Computer Science**, University of Pune (2013)
+- **12+ years IT experience**: 8+ years as Data Scientist, 3 years as Software Engineer
+- Specialized in **Conversational AI** and making AI applications production-ready at scale
+
+---
+
+## 🌍 Community & Teaching
+
+I'm passionate about education and building the AI engineering community:
+
+- Teaching **AI/Agents/Classical ML/DL** across top EdTech platforms
+- Helping students and professionals upskill with hands-on, production-focused curriculum
+- Sharing real-world patterns for Agent Dev, Multi-Agent teams, RAG, and LLMOps
+
+---
+
+## 📫 Let's Connect
+
+- 💼 **Portfolio**: [Your Portfolio Link]
+- ✉️ **Email**: swapnil89.desai@gmail.com
+- 💡 **Medium**: [Your Medium Articles]
+- 🏢 **LinkedIn**: [Your LinkedIn]
+- 🐦 **Other**: [Twitter/X or other relevant]
+
+**Open to collaborating on**: AI Agents, Multi-Agent Systems, RAG, Conversational AI, MLOps, and Production LLM Applications.
+
+---
+
+*⚡ Avid reader in AI, programming, and system design. Committed to continuous learning and shipping code that actually works in production.*
